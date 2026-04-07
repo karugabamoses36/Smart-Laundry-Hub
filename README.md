@@ -1,2 +1,2 @@
 # Smart-Laundry-Hub
-It's a laundry hub business 
+It's a laundry hub business app
